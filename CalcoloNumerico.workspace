@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CalcoloNumerico" Database="">
+  <Project Name="CalcoloNumerico" Path="CalcoloNumerico.project" Active="No"/>
+  <Project Name="Eulero" Path="Eulero/Eulero.project" Active="Yes"/>
+  <Project Name="Romeo_Giulietta" Path="Romeo_Giulietta/Romeo_Giulietta.project" Active="No"/>
+  <Project Name="Complex_Number" Path="Complex_Number/Complex_Number.project" Active="No"/>
+  <Project Name="Runge_Kutta" Path="Runge_Kutta/Runge_Kutta.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="CalcoloNumerico" ConfigName="Debug"/>
+      <Project Name="Eulero" ConfigName="Debug"/>
+      <Project Name="Romeo_Giulietta" ConfigName="Debug"/>
+      <Project Name="Complex_Number" ConfigName="Debug"/>
+      <Project Name="Runge_Kutta" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="CalcoloNumerico" ConfigName="Release"/>
+      <Project Name="Eulero" ConfigName="Release"/>
+      <Project Name="Romeo_Giulietta" ConfigName="Release"/>
+      <Project Name="Complex_Number" ConfigName="Release"/>
+      <Project Name="Runge_Kutta" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
